@@ -1,7 +1,5 @@
 # Claude Code Global Standards + Archive Workflow
 
-
-
 A set of global configuration files for Claude Code that enforce production-grade, enterprise-level code quality across every project — plus a lightweight file archive script to preserve originals before modifying them.
 
 Built for developers who ship real software to real users and need Claude Code to behave accordingly.
